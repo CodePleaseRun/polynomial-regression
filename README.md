@@ -8,7 +8,7 @@
 
 ```bash
 git clone https://github.com/CodePleaseRun/polynomial-regression.git
-cd polynomial_regression
+cd polynomial-regression
 ```
 
 **Dependencies:**
