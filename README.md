@@ -7,7 +7,7 @@
 <h2>Installation</h2>
 
 ```bash
-git clone https://github.com/CodePleaseRun/polynomial_regression.git
+git clone https://github.com/CodePleaseRun/polynomial-regression.git
 cd polynomial_regression
 ```
 
